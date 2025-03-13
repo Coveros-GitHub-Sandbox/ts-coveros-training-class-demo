@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/7ep/demo",
   "dependencies": {
-    "mocha": "^7.1.1",
+    "mocha": "^11.1.0",
     "selenium-webdriver": "^4.0.0-alpha.7"
   }
 }
